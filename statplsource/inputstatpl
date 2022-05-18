@@ -1,0 +1,14 @@
+masses.dat		! name of data file massspec.dat	
+-1				! number of bins, -1 for auto
+1	! Beg
+1	! Beg recursive
+1	! Baxter
+1	! Const bin LR
+1	! Var bin chi
+1	! ML
+1	! Mod  ML
+1	! CCD
+1		! calculate standard deviation of estimators and power of tests
+1000		! Monte-Carlo sampling size
+0.05	! Significance level
+1	! make plots
